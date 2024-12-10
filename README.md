@@ -3,7 +3,7 @@ Replication files for the paper: A Social Media Alert System for Meme Stocks.
 
 *We plan to update the data and the model's results for 2024 soon, and to provide regular updates from 01-2025 onwards.*
 
-<img src="figures/Network_creation" alt="Reddit social structure" width="800">
+<img src="figures/Network_creation.PNG" alt="Reddit social structure" width="800">
 
 **Data decompression and processing**: 
 decompression of the zst files containing the raw Reddit data. To download the data, we rely on the project built by https://github.com/Watchful1/PushshiftDumps. 
