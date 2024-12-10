@@ -19,11 +19,6 @@ The data are in zst format: use the scipt *decompress_zst.py* to extract the raw
 
 <br><br>
 
-**Training of the model**:
-As explained in Section 5.2 of the paper, the alert system is trained on data up to 2022m5. The script *train.py* reproduces the training exercise with a grid-search algorithm.
+**Training/Test of the model**:
+As explained in Section 5.2 of the paper, the alert system is trained on data up to 2022m5. The script *train.py* reproduces the training exercise with a grid-search algorithm. The script *test.py* reproduces the out-of-sample evaluation of the trained model.
 
-<br><br>
-
-
-**Model's testing**:
-The script *test.py* reproduces the out-of-sample evaluation of the trained model.
