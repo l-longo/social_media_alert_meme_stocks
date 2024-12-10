@@ -5,7 +5,7 @@
 This document explains how to reproduce results in the paper: **A Social Media Alert System for Meme Stocks**.
 
 The model consists in an alert system designed to detect potential unusual activity in terms of user discussions on certain securities' tickers traded in the financial markets.
-To achieve the results we extract network dimensions from the social network Reddit, and we convert them in potential signals to predict future abnormal returns. 
+To achieve the results we extract network dimensions from Reddit, and we convert them in potential signals to predict future abnormal returns. 
 
 <img src="figures/Network_creation.PNG" alt="Reddit social structure" width="800">
 
