@@ -12,7 +12,7 @@ To achieve the results we extract network dimensions from Reddit, and we convert
 <br><br>
 
 **Data decompression and processing**: 
-The first step is the decompression of the zst files containing the raw Reddit data. To download the data, we rely on the project built by https://github.com/Watchful1/PushshiftDumps. You can find the wallstreetbets data at this open-access drive folder: https://drive.google.com/drive/folders/1Y6lpnhT5mXh5q-D_xLDpF9tzWoRMmJXl?usp=sharing.
+The first step is the decompression of the zst files containing the raw data. These data are accessible in zst format. Please, contact me if you need the raw data for replication or research purposes.
 The data are in zst format: use the scipt *decompress_zst.py* to extract the raw data in a csv format, then *open.py* to merge the comments and submissions. The following graph shows the network of users interacting on Reddit on January 14, 2021:
 
 <img src="figures/GME_network_graph_14_01_2021_lighter_background.png" alt="Reddit social structure" width="400">
