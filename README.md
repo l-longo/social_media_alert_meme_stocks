@@ -1,6 +1,5 @@
 # A Social Media Alert System for Meme Stocks
 
-*We plan to update the data and the model's results for 2024 soon, and to provide regular updates from 01-2025 onwards.*
 
 This document explains how to reproduce results in the paper: **A Social Media Alert System for Meme Stocks**.
 
